@@ -1,4 +1,4 @@
-# Hi there, I'm Daniele Pio! 👋
+# Hi there, I'm Daniele! 👋
 
 **🚀 AI Engineer based in Italy**
 
