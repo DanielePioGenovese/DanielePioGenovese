@@ -13,9 +13,9 @@ I specialize in building, optimizing, and deploying Artificial Intelligence solu
 ---
 
 ### 🤝 Let's Collaborate!
-Looking to upgrade your systems or integrate AI? **I will build or improve your AI system entirely FOR FREE!** 
+Looking to upgrade your systems or integrate AI? **I will build or improve your AI system entirely** 
 
-I am currently taking on pro-bono projects to expand my portfolio, collaborate on interesting ideas, and help businesses innovate. If you have a project in mind, let's build it together at no cost.
+I am currently taking on pro-bono projects to expand my portfolio, collaborate on interesting ideas, and help businesses innovate.
 
 ### 📫 Connect with me:
 
