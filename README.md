@@ -1,6 +1,6 @@
 # Hi there, I'm Daniele! 👋
 
-**🚀 AI Engineer based in Italy**
+**🚀 AI Developer based in Italy**
 
 I specialize in building, optimizing, and deploying Artificial Intelligence solutions. 
 
